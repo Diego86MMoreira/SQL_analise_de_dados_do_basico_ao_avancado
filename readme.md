@@ -1,7 +1,7 @@
 # SQL para Análise de Dados: Do básico ao Avançado
 <div align="center">
 
-![Status](https://img.shields.io/badge/Status-Em andamento-%2300C851)
+![Status](https://img.shields.io/badge/Status-Em%20andamento-yellow)
 </div>
 
 ## 📚 Descrição
